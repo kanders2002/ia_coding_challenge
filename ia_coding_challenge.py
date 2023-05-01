@@ -1,5 +1,5 @@
 orders = ['Rx1:MedicationX', 'Rx2:MedicationY', 'Rx3:MedicationZ', 'Rx4:MedicationA']
-medications = ['MedicationA:1,2,3', 'MedicationX:1,2,', 'MedicationY:0', 'MedicationZ:3']
+medications = ['MedicationA:1,2,3', 'MedicationX:1,2', 'MedicationY:0', 'MedicationZ:3']
 
 def create_labels(orders, medications):
   #Initialize list of order labels
